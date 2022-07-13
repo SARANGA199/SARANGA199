@@ -4,7 +4,7 @@
 
 <div>
   <div align='left'>
-   I am a 3 rd year undergraduate student at Sri Lanka Institute of Information Technology, graduating with a BSc (Hons) in Software Engineering. I have work experience in technologies such as Programming, Data Science, Algorithms, Networking, and technical skills include Python, JavaScript, HTML, CSS, MySQL, Angular, Visual Studio, GIT, and Java language.
+ I am a third-year undergraduate student at SLIIT. I have acquired both theoretical and practical knowledge from both academic and nonacademic resources. I am a self -motivated, innovative, and quick learner, who is willing to perform towards the advancement of the IT field.
   </div>
 </div>
 <hr/>
