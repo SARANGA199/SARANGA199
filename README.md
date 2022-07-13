@@ -5,6 +5,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=dark"/>
 <br /> 
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saranga199&show_icons=true&locale=en" alt="saranga199" /></p>
 
 <!--
