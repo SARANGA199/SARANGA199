@@ -38,7 +38,7 @@
 <div align='left'>
   <a href='#'>
     <img alt='Top Languages'
-         src='https://github-readme-stats.vercel.app/api/top-langs/?username=SARANGA199&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=09ab0e'
+         src='https://github-readme-stats.vercel.app/api/top-langs/?username=SARANGA199&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=09ab0e&icon_color=09ab0e'
          height='200'/>
   </a>
 </div>
