@@ -2,12 +2,12 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=dark"/>
-<br /> 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saranga199&show_icons=true&locale=en" alt="saranga199" /></p>
+<div>
+  <div align='left'>
+   I am a 3 rd year undergraduate student at Sri Lanka Institute of Information Technology, graduating with a BSc (Hons) in Software Engineering. I have work experience in technologies such as Programming, Data Science, Algorithms, Networking, and technical skills include Python, JavaScript, HTML, CSS, MySQL, Angular, Visual Studio, GIT, and Java language.
+  </div>
+</div>
+<hr/>
 
 <!--
 **SARANGA199/SARANGA199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
