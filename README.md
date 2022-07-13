@@ -14,13 +14,13 @@
      target='_blank'
      style='text-decoration: none'>
     <img alt='Email'
-         src='https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F'>
+         src='https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=09ab0e'>
   </a>
   <a href='https://www.linkedin.com/in/piumika-saranga-b33a63217/'
      target='_blank'
      style='text-decoration: none'>
     <img alt='LinkedIn'
-         src='https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F'>
+         src='https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=09ab0e'>
   </a>
   
   
