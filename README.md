@@ -71,10 +71,6 @@
     <img alt='icon'
          src='https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=09ab0e'>
   </a>
-  <a href='#'>
-    <img alt='icon'
-         src='https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=09ab0e'>
-  </a>
 
   <a href='#'>
     <img alt='icon'
