@@ -43,6 +43,65 @@
   </a>
 </div>
 <hr/>
+
+<div align='center'>
+ 
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/SQL%20-%230D1117.svg?style=flat-square&logo=amazon-dynamodb&logoColor=F0DB4F'>
+  </a>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=F0DB4F'>
+  </a>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F'>
+  </a>
+ 
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=F0DB4F'>
+  </a>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/Nodejs-0D1117?style=flat-square&logo=Node.js&logoColor=F0DB4F'>
+  </a>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F'>
+  </a>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=F0DB4F'>
+  </a>
+
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=F0DB4F'>
+  </a>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/Markdown-%230D1117.svg?style=flat-square&logo=markdown&logoColor=F0DB4F'>
+  </a>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=F0DB4F'>
+  </a>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/Heroku-0D1117?style=flat-square&logo=heroku&logoColor=F0DB4F'>
+  </a>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/Microsoft%20Azure-0D1117?style=flat-square&logo=microsoft-azure&logoColor=F0DB4F'>
+  </a>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/Amazon%20AWS-0D1117?style=flat-square&logo=amazon-aws&logoColor=F0DB4F'>
+  </a>
+</div>
+
 <!--
 **SARANGA199/SARANGA199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
