@@ -4,7 +4,7 @@
 
 <div>
   <div align='left'>
- I am a third-year undergraduate student at SLIIT. I have acquired both theoretical and practical knowledge from both academic and nonacademic resources. I am a self -motivated, innovative, and quick learner, who is willing to perform towards the advancement of the IT field.
+ I am a fourth-year undergraduate student at SLIIT. I have acquired both theoretical and practical knowledge from both academic and nonacademic resources. I am a self -motivated, innovative, and quick learner, who is willing to perform towards the advancement of the IT field.
   </div>
 </div>
 <hr/>
