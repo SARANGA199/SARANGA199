@@ -1,4 +1,4 @@
-### <h2><b>Hello Programmers 👋:collision: </b> </h2>
+### <h2><b>Hello Programmers 👋 </b> </h2>
 
 
 
