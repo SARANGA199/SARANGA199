@@ -4,7 +4,7 @@
 
 <div>
   <div align='left'>
- I am a fourth-year undergraduate student at SLIIT. I have acquired both theoretical and practical knowledge from both academic and nonacademic resources. I am a self -motivated, innovative, and quick learner, who is willing to perform towards the advancement of the IT field.
+ Software Engineer with over two years of experience in developing, testing, and deploying software solutions. Adept at solving complex problems, staying updated with the latest software trends, and delivering practical, real-world solutions. Skilled in collaborating across teams and consistently driving projects to successful completion
   </div>
 </div>
 <hr/>
